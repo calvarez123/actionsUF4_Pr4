@@ -45,3 +45,6 @@ docker-compose down
 http://127.0.0.1:8081/
 usuari: admin
 contrasenya: pass
+
+
+![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)

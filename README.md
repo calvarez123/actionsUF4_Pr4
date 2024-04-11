@@ -47,4 +47,4 @@ usuari: admin
 contrasenya: pass
 
 
-![example branch parameter](https://github.com/calvarez123/actionsUF4_Pr4/actions/runs/8649425161/job/23715603951)
+![example branch parameter](https://github.com/jpala4-ieti/DAM2-MP06-UF04-Java-Base/actions/workflows/maven.yml/badge.svg)

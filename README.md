@@ -47,4 +47,4 @@ usuari: admin
 contrasenya: pass
 
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![example branch parameter](https://github.com/calvarez123/actionsUF4_Pr4/actions/runs/8649425161/job/23715603951)
